@@ -1,3 +1,5 @@
+# P8 - Déployez un modèle dans le cloud
+
 # Compétences évaluées
 - Paralléliser des opérations de calcul avec Pyspark.  
 - Identifier les outils du cloud (AWS) permettant de mettre en place un environnement Big Data.  
