@@ -29,9 +29,9 @@ La mise en œuvre d’une architecture Big Data sous (par exemple) AWS peut néc
 Ce coût, qui devrait rester inférieur à 10 euros pour une utilisation raisonnée, reste à votre charge. L’utilisation d’un serveur local pour la conception, en limitant l’utilisation du serveur EC2 à l’implémentation et aux tests, permet de réduire sensiblement ce coût.
 
 # Livrables attendus
-Un notebook sur le cloud contenant les scripts en Pyspark exécutables (le preprocessing et une étape de réduction de dimension).
-Les images du jeu de données initial ainsi que la sortie de la réduction de dimension (une matrice écrite sur un fichier CSV ou autre) disponible dans un espace de stockage sur le cloud.
-Un support de présentation pour la soutenance, présentant :
-les différentes briques d'architecture choisies sur le cloud ;
-leur rôle dans l’architecture Big Data ;
-les étapes de la chaîne de traitement.
+Un notebook sur le cloud contenant les scripts en Pyspark exécutables (le preprocessing et une étape de réduction de dimension). 
+Les images du jeu de données initial ainsi que la sortie de la réduction de dimension (une matrice écrite sur un fichier CSV ou autre) disponible dans un espace de stockage sur le cloud. 
+Un support de présentation pour la soutenance, présentant :  
+les différentes briques d'architecture choisies sur le cloud ;  
+leur rôle dans l’architecture Big Data ;  
+les étapes de la chaîne de traitement. 
